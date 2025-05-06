@@ -1,4 +1,4 @@
-package WIX1002_2018_2;
+package WIX1002_2019_2;
 
 public class Q1 {
     public static void main(String[] args) {
