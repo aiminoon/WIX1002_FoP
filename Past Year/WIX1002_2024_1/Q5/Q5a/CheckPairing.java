@@ -6,7 +6,7 @@ import java.util.Optional;
 import java.util.Scanner;
 
 public class CheckPairing {
-    private static final String file = "src/WIX1002_2024_1/Q5/participants.txt";
+    private static final String file = "src/WIX1002_2024_1/Q5/Q5a/participants.txt";
 
     public static void main(String[] args) {
 
