@@ -1,11 +1,5 @@
 package WIX1002_2024_1;
 
-import com.umwix1002.solution.pastyear.PastYear2024.wix1002_2024_1.Q2.Q2a.Book;
-import com.umwix1002.solution.pastyear.PastYear2024.wix1002_2024_1.Q2.Q2b.InvalidAgeException;
-import com.umwix1002.solution.pastyear.PastYear2024.wix1002_2024_1.Q2.Q2c.Guitar;
-import com.umwix1002.solution.pastyear.PastYear2024.wix1002_2024_1.Q2.Q2c.Piano;
-import com.umwix1002.solution.pastyear.PastYear2024.wix1002_2024_1.Q2.Q2c.Playable;
-
 public class Main {
     public static void main(String[] args) {
         // Q2a
