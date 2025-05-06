@@ -1,5 +1,4 @@
-public class Q2 {
-    
+public class L1Q2 {
     public static class PersonalInfo {
         private String name;
         private String matricID;
