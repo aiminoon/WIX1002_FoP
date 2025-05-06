@@ -1,0 +1,7 @@
+package WIX1002_2024_1;
+
+public class InvalidAgeException extends Exception {
+    public InvalidAgeException(String message) {
+        super(message);
+    }
+}
