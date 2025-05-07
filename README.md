@@ -3,7 +3,7 @@ A collection of tutorials, labs, viva, notes, past year questions with answers f
 
 ## Directory Structure
 ### Past Year
-* [WIX1002_2016_1](src/Past_Year/WIX1002_2016_1)
+* [WIX1002_2016_1](WIX1002_FoP/Past%20Year/WIX1002_2016_1)
 * 
 
 ## License
