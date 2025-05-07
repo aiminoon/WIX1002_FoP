@@ -50,6 +50,10 @@ A collection of tutorials, labs, viva, notes, past year questions with answers f
 * [Viva_2324_Viva3_Thur](Viva/Viva_2324/Viva3_Thur)
 * [Viva_2324_Viva3_Tues](Viva/Viva_2324/Viva3_Tues)
 
+## Contribution
+Contributions are welcome!
+Feel free to contribute by adding new resources or enhancing the existing ones. When submitting a pull request, please ensure you follow the standard practices.
+
 ## License
 This project is licensed under the [MIT License](LICENSE).
 
