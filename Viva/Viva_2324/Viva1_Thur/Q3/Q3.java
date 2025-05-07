@@ -2,7 +2,7 @@ package Viva1_Thur.Q3;
 
 import java.util.Scanner; 
 
-public class Main {
+public class Q3 {
     public static void main(String[] args) {
         Scanner k = new Scanner(System.in); 
         
