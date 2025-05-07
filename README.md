@@ -43,7 +43,12 @@ A collection of tutorials, labs, viva, notes, past year questions with answers f
 * [Tutorial 10](Tutorials/tutorial10.md)
 
 ### Viva
-*
+* [Viva_2223_Viva1](Viva/Viva_2223/Viva1)
+* [Viva_2223_Viva2](Viva/Viva_2223/Viva2)
+* [Viva_2324_Viva1_Thur](Viva/Viva_2324/Viva1_Thur)
+* [Viva_2324_Viva2_Thur](Viva/Viva_2324/Viva2_Thur)
+* [Viva_2324_Viva3_Thur](Viva/Viva_2324/Viva3_Thur)
+* [Viva_2324_Viva3_Tues](Viva/Viva_2324/Viva3_Tues)
 
 ## License
 This project is licensed under the [MIT License](LICENSE).
