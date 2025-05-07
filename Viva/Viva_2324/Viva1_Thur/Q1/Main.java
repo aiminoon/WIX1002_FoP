@@ -1,6 +1,6 @@
 package Viva_Thur.Q1;
   
-public class Viva1_Thur.Q1 {   
+public class Main {   
     public static void main(String[] args) {
         int rowCount = 5;
  
