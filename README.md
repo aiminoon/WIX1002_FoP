@@ -1,5 +1,5 @@
 # WIX1002_FoP
-A collection of tutorials, labs, viva, notes, past year questions with answers for WIX1002 - Fundamentals of Programming, offered by FCSIT, Universiti Malaya.
+A collection of tutorials, labs, viva, notes, problem solving, past year questions with answers for WIX1002 - Fundamentals of Programming, offered by FCSIT, Universiti Malaya.
 
 ## Directory Structure
 ### Past Year
@@ -49,6 +49,11 @@ A collection of tutorials, labs, viva, notes, past year questions with answers f
 * [Viva_2324_Viva2_Thur](Viva/Viva_2324/Viva2_Thur)
 * [Viva_2324_Viva3_Thur](Viva/Viva_2324/Viva3_Thur)
 * [Viva_2324_Viva3_Tues](Viva/Viva_2324/Viva3_Tues)
+
+### Problem Solving
+* [Problem_Solving_1](Problem_Solving/PS1)
+* [Problem_Solving_2](Problem_Solving/PS2)
+* [Problem_Solving_3](Problem_Solving/PS3)
 
 ## Contribution
 Contributions are welcome!
