@@ -2,7 +2,7 @@ package Viva_Thur.Q2;
 
 import java.util.Scanner;
 
-public class Main {
+public class Q2 {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         int number, remainder, reverse = 0;
